@@ -1,3 +1,9 @@
+/*
+ * jQuery Data Replace 0.0.1pre
+ *
+ * Copyright 2011, Scott González (http://scottgonzalez.com)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ */
 (function( $ ) {
 
 $( "a[data-replace]" ).live( "click", function( event ) {
