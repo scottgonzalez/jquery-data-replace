@@ -1,0 +1,35 @@
+#wrapper {
+	width: 760px;
+	margin: 0 auto;
+}
+
+.results {
+	float: left;
+	margin-bottom: 20px;
+}
+
+.result {
+	float: left;
+	width: 140px;
+	height: 95px;
+	padding-top: 45px;
+	font-size: 50px;
+	text-align: center;
+	color: #fff;
+	background-color: #333;
+	margin: 10px 10px 0 0;
+}
+
+.pagination {
+	font-size: 20px;
+	text-align: center;
+}
+
+.pagination a,
+.pagination a:link,
+.pagination a:visited,
+.pagination a:hover,
+.pagination a:active {
+	color: #333;
+	padding: 5px;
+}
